@@ -1,0 +1,1 @@
+# Altium-Designer-v20.2.4
